@@ -8,5 +8,5 @@ my_obj.data 為資料集設定檔
 my_obj.names 為資料集分類標籤名稱  
 my_yolov4_custom.cfg 為自定義模型及相關參數  
 my_train.txt 為自定義資料訓練集檔案名稱列表  
-my_test.txt 為自定義資料驗證集檔案名稱列表
+my_test.txt 為自定義資料驗證集檔案名稱列表  
 test01.jpg, test02.jpg 為測試用影像  
