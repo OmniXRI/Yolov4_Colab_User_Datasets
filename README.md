@@ -13,5 +13,4 @@ Google Colab範例，使用Yolov4(darknet)對自定義資料集進行訓練及�
 
 **devcloud-yolov4-tiny-test.ipynb** 為Intel DevCloud版Yolov4-tiny測試程式，採預訓練模型，不含訓練部份，單純使用CPU進行編譯及推論。  
 
-**Colab_Yolov4_Webcam_Test.ipynb** 為Colab版Yolov4-tiny測試程式，採預訓練模型，不含訓練部份，可以執行檔或python程式方式執行物件偵測推論。    
-另包含JavaScript函式，可以使用網路攝影機(Webcam)作為輸入裝置，取得靜態影像或動態視訊進行物件偵測推論。  
+**Colab_Yolov4_Webcam_Test.ipynb** 為Colab版Yolov4-tiny測試程式，採預訓練模型，不含訓練部份，可以執行檔或python程式方式執行物件偵測推論。另包含JavaScript函式，可以使用網路攝影機(Webcam)作為輸入裝置，取得靜態影像或動態視訊進行物件偵測推論。  
