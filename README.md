@@ -10,3 +10,7 @@ my_yolov4_custom.cfg 為自定義模型及相關參數
 my_train.txt 為自定義資料訓練集檔案名稱列表  
 my_test.txt 為自定義資料驗證集檔案名稱列表  
 test01.jpg, test02.jpg 為測試用影像  
+
+devcloud-yolov4-tiny-test.ipynb 為Intel DevCloud版Yolov4-tiny測試程式，採預訓練模型，不含訓練部份，單純使用CPU進行編譯及推論。  
+
+Colab_Yolov4_Webcam_Test.ipynb 為Colab版Yolov4-tiny測試程式，採預訓練模型，不含訓練部份，另包含JavaScript函式，可以網路攝影機作為輸入裝置，取得靜態影像及動態視訊進行物件偵測推論。  
